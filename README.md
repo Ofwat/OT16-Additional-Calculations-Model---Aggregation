@@ -50,7 +50,7 @@ The aggregated data is calculated based on specific groups of companies (e.g., E
 The script will automatically drop any pre-existing aggregated data in the dataset to prevent double counting.
 The generated Excel file will be overwritten if it already exists, so make sure to backup the original file before running the script.
 
-**5. License **This code is published under the Open Government Licence v3.0. You are encouraged to use and reuse the information provided here, subject to the terms and conditions of the Open Government Licence
+**5. License** This code is published under the Open Government Licence v3.0. You are encouraged to use and reuse the information provided here, subject to the terms and conditions of the Open Government Licence
 
 **6. Author** Alex Whitmarsh alex.whitmarsh@ofwat.gov.uk
 
